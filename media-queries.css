@@ -1,0 +1,670 @@
+@media only screen and (max-width:1366px) {
+    
+
+    header img {
+		width:  1349px;
+		text-align:  center;
+	}
+    
+    .logo img {
+        width: 289px;
+        position: absolute;
+        top: 32px;
+        left: 30px;
+    }
+    
+    header nav a {
+        position: relative;
+        margin: 20px;
+        top: -825px;
+        left: 793px;
+        color: #000000;
+        font: 400 18px / 24px ProximaNova;
+        text-decoration: none;
+    }
+    
+    header nav a:hover {
+        border: 1px solid #000000;
+        border-radius: 30px;
+        padding: 10px;
+    }
+    
+    header h1 {
+        text-align: center;
+        position: relative;
+        top: -700px;  
+        color: #000000;
+    }
+    
+    header p {
+        text-align: center;
+        position: relative;
+        top: -710px;
+        color: #949494;
+        font: 400 18px / 30px ProximaNova;
+    }
+    
+
+    header button {
+        position: absolute;
+        top: 325px;
+        left: 580px;
+        width: 170px;
+        height: 50px;
+        z-index: 10;
+        border-radius: 30px;
+        background: linear-gradient(to right, #1c058e, #c00bca);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+        cursor: pointer;
+    }
+    
+    
+    header button:hover {
+        position: absolute;
+        top: 325px;
+        left: 580px;
+        width: 170px;
+        height: 50px;
+        z-index: 10;
+        border-radius: 130px;
+        background: linear-gradient(to right, #ac1010, #0c227d);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+        cursor: pointer;
+        transition-duration: 2s;
+    }
+    
+    
+    header .mouse img {
+        width: 25px;
+        height: 43px;
+        position: absolute;
+        top: 555px;
+        left: 650px;
+    }
+    
+    header .mouse p {
+        color: #000000;
+        background-color: #fed6cc;
+        font: 300 14px / 18px ProximaNova;
+        position: absolute;
+        top: 595px;
+        left: 625px;
+    }
+    
+    .about .left-col img{
+        width: 1349px;
+        position: absolute;
+        top: 665px;
+        z-index: 20;
+    }
+    
+    .about .left-col h2 img {
+        width: 165px;
+        position: absolute;
+        top: 245px;
+        left: 70px;
+        z-index: 60;
+    }
+    
+    .about .left-col p {
+        color: #ffffff;
+        font: 300 18px / 30px ProximaNova;
+        position: absolute;
+        top: 810px;
+        left: 70px;
+        z-index: 70;
+        width: 541px;
+    }
+    
+    
+    .about .right-col img{
+        width: 670px;
+        height: 367px;
+        position: absolute;
+        top: 665px;
+        left: 673px;
+    }
+    
+    .about .left-col h2 img {
+        width: 165px;
+    }
+    
+    .about .left-col button {
+        position: absolute;
+        top: 940px;
+        left: 70px;
+        width: 170px;
+        height: 50px;
+        z-index: 70;
+        border-radius: 30px;
+        background: linear-gradient(to right, #1c058e, #c00bca);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+    }
+    
+    
+    
+    .about .left-col button:hover {
+        position: absolute;
+        top: 940px;
+        left: 70px;
+        width: 170px;
+        height: 50px;
+        z-index: 70;
+        border-radius: 130px;
+        background: linear-gradient(to right, #ac1010, #0c227d);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+        cursor: pointer;
+        transition-duration: 2s;
+    }
+    
+    
+    
+    
+    
+    .about .right-col img{
+        width: 676px;
+        position: absolute;
+        top: 665px;
+        z-index: 10;
+    }
+    
+    .about .right-col h2 img {
+        width: 165px;
+        height: 26px;
+        position: absolute;
+        top: 245px;
+        left: 750px;
+        z-index: 60;
+    }
+    
+    .about .right-col p {
+        color: #ffffff;
+        font: 300 18px / 30px ProximaNova;
+        position: absolute;
+        top: 810px;
+        left: 750px;
+        z-index: 70;
+        width: 541px;
+    }
+    
+
+    
+    .about .right-col button {
+        position: absolute;
+        top: 940px;
+        left: 750px;
+        width: 170px;
+        height: 50px;
+        z-index: 70;
+        border-radius: 30px;
+        background: linear-gradient(to right, #1c058e, #c00bca);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+    }
+    
+    
+    .about .right-col button:hover {
+        position: absolute;
+        top: 940px;
+        left: 750px;
+        width: 170px;
+        height: 50px;
+        z-index: 70;
+        border-radius: 30px;
+        background: linear-gradient(to right, #ac1010, #0c227d);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+        cursor: pointer;
+        transition-duration: 2s;
+    }
+    
+    button {
+        outline: none;
+    }
+    
+    .content {
+    margin-top: 90px;
+    }
+    
+    .content h2 {
+        text-align: center;
+        color: #000000;
+        font: 700 48px / 36px ProximaNova;
+    }
+
+    
+    
+    
+    .description1 {
+        position: relative;
+        top: 60px;
+        left: 200px;
+        color: #000000;
+        width: 440px;
+    }
+    
+    .description1 h3 {
+        color: #000000;
+        font: 700 30px / 36px ProximaNova;
+        margin-bottom: -10px;
+    }
+    
+    .description1 p {
+        color: #949494;
+        font: 300 18px / 30px ProximaNova;
+    }
+    
+    .description1 img {
+        position: relative;
+        top: -130px;
+        left: -130px;
+    }
+    
+    
+    
+    
+    
+    .description2 {
+        position: relative;
+        top: 0px;
+        left: 200px;
+        color: #000000;
+        width: 440px;
+    }
+    
+    .description2 h3 {
+        color: #000000;
+        font: 700 30px / 36px ProximaNova;
+        margin-bottom: -10px;
+    }
+    
+    .description2 p {
+        color: #949494;
+        font: 300 18px / 30px ProximaNova;
+    }
+    
+    .description2 img {
+        position: relative;
+        top: -130px;
+        left: -130px;
+    }
+    
+    
+    
+    
+    
+    .description3 {
+        position: relative;
+        top: -510px;
+        left: 900px;
+        color: #000000;
+        width: 440px;
+    }
+    
+    .description3 h3 {
+        color: #000000;
+        font: 700 30px / 36px ProximaNova;
+        margin-bottom: -10px;
+    }
+    
+    .description3 p {
+        color: #949494;
+        font: 300 18px / 30px ProximaNova;
+    }
+    
+    .description3 img {
+        position: relative;
+        top: -130px;
+        left: -150px;
+    }
+    
+    
+    
+    .description4 {
+        position: relative;
+        top: -555px;
+        left: 900px;
+        color: #000000;
+        width: 440px;
+    }
+    
+    .description4 h3 {
+        color: #000000;
+        font: 700 30px / 36px ProximaNova;
+        margin-bottom: -10px;
+    }
+    
+    .description4 p {
+        color: #949494;
+        font: 300 18px / 30px ProximaNova;
+    }
+    
+    .description4 img {
+        position: relative;
+        top: -130px;
+        left: -150px;
+    }
+    
+    
+    
+    .content button {
+        position: absolute;
+        top: 1650px;
+        left: 580px;
+        width: 200px;
+        height: 60px;
+        z-index: 10;
+        border-radius: 30px;
+        background: linear-gradient(to right, #1c058e, #c00bca);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+        cursor: pointer;
+    }
+    
+    
+    
+    .content button:hover {
+        position: absolute;
+        top: 1650px;
+        left: 580px;
+        width: 200px;
+        height: 60px;
+        z-index: 10;
+        border-radius: 30px;
+        background: linear-gradient(to right, #ac1010, #0c227d);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+        cursor: pointer;
+        transition-duration: 2s;
+    }
+    
+    
+    
+    /*  Слайды  */
+    
+    .slide .left {
+        position: absolute;
+        top: 1750px;
+    }
+    
+    .slide .left .arrow {
+        position: absolute;
+        top: 135px;
+    }
+    
+    .slide .center {
+        position: absolute;
+        top: 1750px; 
+        left: 450px;
+    }
+    
+    .slide .center img {
+        filter: brightness(50%);
+    }
+    
+    .slide .center h3 {
+        position: absolute;
+        color: #ffffff;
+        font: 700 30px / 36px ProximaNova;
+        top: 42px;
+        left: 120px;
+        z-index: 20;
+    }
+    
+    .slide .center p {
+        position: absolute;
+        color: #ffffff;
+        font: 300 16px / 24px ProximaNova;
+        top: 110px;
+        text-align: center;
+        z-index: 20;
+    }
+    
+    .slide .center button {
+        position: absolute;
+        top: 220px;
+        left: 140px;
+        width: 170px;
+        height: 50px;
+        z-index: 10;
+        border-radius: 30px;
+        background: linear-gradient(to right, #1c058e, #c00bca);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+        cursor: pointer;
+    }
+    
+    
+    
+    .slide .center button:hover {
+        position: absolute;
+        top: 220px;
+        left: 140px;
+        width: 170px;
+        height: 50px;
+        z-index: 10;
+        border-radius: 30px;
+        background: linear-gradient(to right, #ac1010, #0c227d);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+        cursor: pointer;
+        transition-duration: 2s;
+    }
+    
+    
+    
+    .slide .right {
+        position: absolute;
+        top: 1750px; 
+        left: 900px;
+    }
+    
+    .slide .right .arrow {
+        position: absolute;
+        top: 135px;
+        left: 390px;
+    }
+    
+    .about-us img {
+        position: relative;
+        top: -170px;
+    }
+    
+    
+    /* Отзывы о нас */
+    
+    
+    .about-us {
+        position: absolute;
+    }
+
+    
+    .about-us h3 {
+        color: #ffffff;
+        font: 700 48px / 36px ProximaNova;
+        position: absolute;
+        top: -160px;
+        left: 560px;
+        z-index: 10;
+    }
+    .about-us p {
+        color: #949494;
+        font: 300 18px / 30px ProximaNova;
+        position: absolute;
+        top: -60px;
+        left: 360px;
+        text-align: center;
+        
+    }
+    
+    /* Первый отзыв */
+    
+    .about-us .person1 {
+        position: absolute;
+        top: 200px;
+        left: 125px;
+    }
+    .about-us .person1 img {
+        
+    }
+    
+    .about-us .person1 h4 {
+        position: absolute;
+        top: -50px;
+        color: #ffffff;
+        font: 700 24px / 36px Roboto;
+        left: 15px;
+    }
+    
+    .about-us .person1 p {
+        all: initial;
+        position: absolute;
+        top: 30px;
+        left: -40px;
+        color: #949494;
+        font: 300 18px / 30px ProximaNova;
+        width: 300px;
+    }
+    
+   /* Второй отзыв */
+    
+    .about-us .person2 {
+        position: absolute;
+        top: 250px;
+        left: 440px;
+    }
+    
+    .about-us .person2 img {
+        
+    }
+    
+    .about-us .person2 h4 {
+        color: #ffffff;
+        font: 700 24px / 36px Roboto;
+        position: absolute;
+        top: -50px;
+        left: 15px;
+    }
+    
+    .about-us .person2 p {
+        all: initial;
+        position: absolute;
+        top: 30px;
+        left: -40px;
+        color: #949494;
+        font: 300 18px / 30px ProximaNova;
+        width: 300px;
+    }
+    
+    /* Третий отзыв */
+    
+    .about-us .person3 {
+        position: absolute;
+        top: 250px;
+        left: 765px;
+    }
+    
+    .about-us .person3 img {
+        
+    }
+    
+    .about-us .person3 h4 {
+        color: #ffffff;
+        font: 700 24px / 36px Roboto;
+        position: absolute;
+        top: -50px;
+        left: 15px;
+    }
+    
+    .about-us .person3 p {
+        all: initial;
+        position: absolute;
+        top: 30px;
+        left: -40px;
+        color: #949494;
+        font: 300 18px / 30px ProximaNova;
+        width: 300px;
+    }
+    
+    /* Четвёртый отзыв */
+    
+    .about-us .person4 {
+        position: absolute;
+        top: 200px;
+        left: 1075px;
+    }
+    
+    .about-us .person4 img {
+        
+    }
+    
+    .about-us .person4 h4 {
+        color: #ffffff;
+        font: 700 24px / 36px Roboto;
+        position: absolute;
+        top: -50px;
+        left: 20px;
+        left: 15px;
+    }
+    
+    .about-us .person4 p {
+        all: initial;
+        position: absolute;
+        top: 30px;
+        left: -40px;
+        color: #949494;
+        font: 300 18px / 30px ProximaNova;
+        width: 300px;
+    }
+    
+    .about-us button {
+        position: absolute;
+        top: 375px;
+        left: 580px;
+        width: 150px;
+        height: 60px;
+        z-index: 10;
+        border-radius: 30px;
+        background: linear-gradient(to right, #1c058e, #c00bca);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+        cursor: pointer;
+    }
+    
+    
+    
+    .about-us button:hover {
+        position: absolute;
+        top: 375px;
+        left: 580px;
+        width: 150px;
+        height: 60px;
+        z-index: 10;
+        border-radius: 30px;
+        background: linear-gradient(to right, #ac1010, #0c227d);
+        color: #ffffff;
+        font: 400 18px / 36px ProximaNova;
+        cursor: pointer;
+        transition-duration: 2s;
+    }
+    
+    
+
+    .map {
+        position: absolute;
+        top: 2720px;
+    }
+    
+    footer {
+        position: absolute;
+        top: 3200px;
+        left: 475px;
+        padding-bottom: 50px;
+        
+    }
+    
+}
